@@ -368,7 +368,7 @@ button {
 
 .text-bg span {
      font-family: 'Baloo Chettan', cursive;
-     color: #ab085a;
+     color: #cd400d;
      font-size: 35px;
      line-height: 77px;
      font-weight: bold;
@@ -379,7 +379,7 @@ button {
 .text-bg a {
      font-size: 17px;
      background-color: #fff;
-     color: #ab085a;
+     color: #cd400d;
      padding: 13px 0px;
      width: 100%;
      max-width: 190px;
@@ -389,13 +389,13 @@ button {
 }
 
 .text-bg a:hover {
-     background-color: #ab085a;
+     background-color: #cd400d;
      color: #fff;
      transition: ease-in all 0.5s;
 }
 
 .text-img {
-     background: #ab085a;
+     background: #cd400d;
 }
 
 .text-img figure {
@@ -466,7 +466,7 @@ button {
 }
 
 .feature .feature_box .read_more:hover {
-     background: #ab085a;
+     background: #cd400d;
 }
 
 
@@ -508,7 +508,7 @@ button {
      align-items: center;
      justify-content: center;
      flex-wrap: wrap;
-     color: #ab085a;
+     color: #cd400d;
 }
 
 .amezing_box .can h4 {
@@ -538,11 +538,11 @@ button {
      display: block;
      margin-top: 30px;
      background-color: #fff;
-     color: #ab085a;
+     color: #cd400d;
 }
 
 .amezing .read_more:hover {
-     background-color: #ab085a;
+     background-color: #cd400d;
      color: #fff;
 }
 
@@ -568,106 +568,8 @@ button {
 }
 
 
-/** customer section **/
-
-.customer {
-     margin-top: 90px;
-     padding-bottom: 120px;
-     background: #f0f0f030;
-}
-
-.customer .titlepage h2 {
-     padding-bottom: 15px;
-}
-
-.customer .titlepage span {
-     font-size: 16px;
-     line-height: 28px;
-     color: #747373;
-}
-
-.customer_Carousel .carousel-caption {
-     position: inherit;
-     padding: 0;
-}
-
-.customer_box {
-     background: #000000;
-}
-
-.test_box {
-     background: #fff;
-     box-shadow: #ddd 0px 0px 10px -1px;
-     margin-top: 13px;
-}
-
-.customer_Carousel .test_box .veni h4 {
-     font-size: 30px;
-     color: #fff;
-     line-height: 32px;
-     display: inline-block;
-     padding-left: 30px;
-}
-
-.customer_Carousel .test_box p {
-     font-size: 17px;
-     line-height: 28px;
-     color: #797878;
-     font-weight: 400;
-     text-align: left;
-     padding: 40px 25px;
-}
-
-.customer_Carousel .test_box .veni {
-     padding-top: 45px;
-     display: inline-block;
-}
-
-.customar_box::after {
-     position: absolute;
-     content: "";
-     width: 58px;
-     left: 85px;
-     height: 30px;
-     top: 0;
-     background-repeat: no-repeat;
-     background: url(../images/cross.png);
-}
-
-.customar_box {
-     background: #000000;
-     text-align: left;
-     position: relative;
-     padding: 0px 0px 44px 50px;
-}
-
-.padd_rightt0 {
-     padding-right: 10px;
-     float: right;
-}
-
-.customer_Carousel .carousel-indicators {
-     bottom: -52px;
-}
-
-.customer_Carousel .carousel-indicators li {
-     width: 22px;
-     height: 22px;
-     border-radius: 20px;
-     background: #000000;
-}
-
-.customer_Carousel .carousel-indicators li.active {
-     background: #ab085a;
-}
-
-.carousel-control-next-icon,
-.carousel-control-prev-icon {
-     display: none;
-}
 
 
-/** end customer section **/
 
 
 /** request section **/
@@ -678,7 +580,7 @@ button {
 }
 
 .pink {
-     color: #ab085a;
+     color: #cd400d;
 }
 
 .request .titlepage h2 {
@@ -776,8 +678,8 @@ ul.social_icon li a {
 }
 
 ul.social_icon li a:hover {
-     background: #ab085a;
-     border: solid #ab085a 1px;
+     background: #cd400d;
+     border: solid #cd400d 1px;
      color: #fff;
 }
 
@@ -798,9 +700,6 @@ ul.social_icon li a:hover {
      color: #000000;
 }
 
-.copyright a:hover {
-     color: #ab085a;
-}
 
 
 /** end footer **/
