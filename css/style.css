@@ -337,7 +337,7 @@ button {
 }
 
 .text_box_color {
-     background: #0c0f38;
+     background: #000000;
      float: right;
      width: 100%;
 }
@@ -368,7 +368,7 @@ button {
 
 .text-bg span {
      font-family: 'Baloo Chettan', cursive;
-     color: #da16e6;
+     color: #ab085a;
      font-size: 35px;
      line-height: 77px;
      font-weight: bold;
@@ -379,7 +379,7 @@ button {
 .text-bg a {
      font-size: 17px;
      background-color: #fff;
-     color: #da16e6;
+     color: #ab085a;
      padding: 13px 0px;
      width: 100%;
      max-width: 190px;
@@ -389,13 +389,13 @@ button {
 }
 
 .text-bg a:hover {
-     background-color: #da16e6;
+     background-color: #ab085a;
      color: #fff;
      transition: ease-in all 0.5s;
 }
 
 .text-img {
-     background: #da16e6;
+     background: #ab085a;
 }
 
 .text-img figure {
@@ -418,7 +418,7 @@ button {
 
 .titlepage h2 {
      font-size: 50px;
-     color: #0c0f38;
+     color: #000000;
      line-height: 61px;
      font-weight: bold;
      padding: 0;
@@ -466,7 +466,7 @@ button {
 }
 
 .feature .feature_box .read_more:hover {
-     background: #da33e2;
+     background: #ab085a;
 }
 
 
@@ -476,7 +476,7 @@ button {
 /** amezing section **/
 
 .amezing {
-     background: #0c0f38;
+     background: #000000;
      margin-top: 90px;
      padding: 90px 0px;
 }
@@ -508,7 +508,7 @@ button {
      align-items: center;
      justify-content: center;
      flex-wrap: wrap;
-     color: #de32e9;
+     color: #ab085a;
 }
 
 .amezing_box .can h4 {
@@ -538,11 +538,11 @@ button {
      display: block;
      margin-top: 30px;
      background-color: #fff;
-     color: #de2fe9;
+     color: #ab085a;
 }
 
 .amezing .read_more:hover {
-     background-color: #de2fe9;
+     background-color: #ab085a;
      color: #fff;
 }
 
@@ -592,7 +592,7 @@ button {
 }
 
 .customer_box {
-     background: #0c0f38;
+     background: #000000;
 }
 
 .test_box {
@@ -635,7 +635,7 @@ button {
 }
 
 .customar_box {
-     background: #0c0f38;
+     background: #000000;
      text-align: left;
      position: relative;
      padding: 0px 0px 44px 50px;
@@ -654,11 +654,11 @@ button {
      width: 22px;
      height: 22px;
      border-radius: 20px;
-     background: #0c0f38;
+     background: #000000;
 }
 
 .customer_Carousel .carousel-indicators li.active {
-     background: #da33e2;
+     background: #ab085a;
 }
 
 .carousel-control-next-icon,
@@ -678,7 +678,7 @@ button {
 }
 
 .pink {
-     color: #da33e2;
+     color: #ab085a;
 }
 
 .request .titlepage h2 {
@@ -698,7 +698,7 @@ ul.social_infomision li a {
      font-family: 'Baloo Chettan', cursive;
      font-size: 48px;
      line-height: 49px;
-     color: #0c0f38;
+     color: #000000;
      font-weight: bold;
 }
 
@@ -722,7 +722,7 @@ ul.social_infomision li img {
 .footer {
      border-top: #000 solid 1px;
      font-family: Poppins;
-     background: #0c0f38;
+     background: #000000;
      padding-top: 50px;
 }
 
@@ -763,7 +763,7 @@ ul.social_icon li {
 }
 
 ul.social_icon li a {
-     color: #0c0f38;
+     color: #000000;
      width: 50px;
      height: 50px;
      border: solid #fff 1px;
@@ -776,8 +776,8 @@ ul.social_icon li a {
 }
 
 ul.social_icon li a:hover {
-     background: #d434e3;
-     border: solid #d434e3 1px;
+     background: #ab085a;
+     border: solid #ab085a 1px;
      color: #fff;
 }
 
@@ -788,18 +788,18 @@ ul.social_icon li a:hover {
 }
 
 .copyright p {
-     color: #0c0f38;
+     color: #000000;
      font-size: 18px;
      line-height: 22px;
      text-align: center;
 }
 
 .copyright a {
-     color: #0c0f38;
+     color: #000000;
 }
 
 .copyright a:hover {
-     color: #d434e3;
+     color: #ab085a;
 }
 
 
