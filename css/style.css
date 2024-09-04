@@ -182,11 +182,6 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   position: absolute;
   right: 15px; }
 
-.site-nav .site-navigation .site-menu>li {
-  display: inline-block;
-  list-style-type: none;
-  /* Elimina el puntito antes del <li> */
-}
 .site-nav {
   padding-top: 20px;
   padding-bottom: 20px; }
@@ -213,8 +208,6 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
         background: #b82733;
         border-radius: 4px; }
         .site-nav .site-navigation .site-menu > li.cta-button a:hover {
-          display: inline-block;
-          list-style-type: none;
           color: #ffffff;
           background-color: transparent;
           border-color: rgba(255, 255, 255, 0.3); }
@@ -306,8 +299,6 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
       .site-nav .site-navigation .site-menu .has-children:hover, .site-nav .site-navigation .site-menu .has-children:focus, .site-nav .site-navigation .site-menu .has-children:active {
         cursor: pointer; }
         .site-nav .site-navigation .site-menu .has-children:hover > .dropdown, .site-nav .site-navigation .site-menu .has-children:focus > .dropdown, .site-nav .site-navigation .site-menu .has-children:active > .dropdown {
-          display: inline-block;
-            list-style-type: none;
           -webkit-transition-delay: 0s;
           -o-transition-delay: 0s;
           transition-delay: 0s;
