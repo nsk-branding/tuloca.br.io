@@ -181,10 +181,22 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
 .menu-absolute {
   position: absolute;
   right: 15px; }
-
+.site-nav img {
+  padding-top: 30px;
+}
 .site-nav {
   padding-top: 20px;
   padding-bottom: 20px; }
+
+/* Ajuste para pantallas pequeñas (móviles) */
+@media only screen and (max-width: 767px) {
+  .site-nav img {
+    padding-top: 50px;
+    /* Cambia este valor según lo que necesites */
+  }
+}
+
+
   .site-nav h1 {
     margin: 0;
     padding: 0;
@@ -334,6 +346,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
       -webkit-transform: rotate(-45deg);
       -ms-transform: rotate(-45deg);
       transform: rotate(-45deg); }
+
 
 .site-mobile-menu {
   width: 300px;
